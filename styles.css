@@ -1,0 +1,30 @@
+
+
+body {
+    background-color: #CEE5D0;
+}
+
+img {
+    
+  }
+
+header {
+    background-color: #FCF8E8;
+}
+
+h1 {
+    color: #94B49F;
+}
+
+h3 {
+    color: #94B49F ;
+    font-style: bold;
+}
+
+hr{
+    color:#FCF8E8;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+}
